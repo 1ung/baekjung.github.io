@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 57.5 80" xml:space="preserve" fill="none" stroke="#ffffff">
+<g>
+	<ellipse stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28.75" cy="6.509" rx="25.894" ry="4.84"/>
+	<ellipse stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28.75" cy="22.431" rx="25.301" ry="4.84"/>
+	<path stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M30.715,71.374c9.248,0.186,16.451,1.668,16.451,3.469c0,1.926-8.246,3.488-18.417,3.488s-18.416-1.562-18.416-3.488
+	c0-1.756,6.848-3.209,15.762-3.453"/>
+	<path stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M54.644,6.509v11.179c0,16.667-11.594,30.179-25.895,30.179S2.856,34.354,2.856,17.688V6.509"/>
+	<path stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M36.389,40.776c3.27-1.658,6.101-4.348,8.214-7.732"/>
+	<path stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M27.75,42.63c0.902,0,1.79-0.074,2.66-0.215"/>
+	<polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	30.626,72.47 26.872,72.47 24.872,47.831 32.626,47.831 	"/>
+</g>
+</svg>
